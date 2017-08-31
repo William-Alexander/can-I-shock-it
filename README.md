@@ -1,2 +1,4 @@
 # can-I-shock-it
-Circle maths!
+Circle math!
+
+This didn't need its own Github project.
